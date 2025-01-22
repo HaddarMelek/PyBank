@@ -1,0 +1,1 @@
+def apply_styles(widget, **styles):    widget.config(**styles)

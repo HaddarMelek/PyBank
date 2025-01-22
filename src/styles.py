@@ -1,0 +1,1 @@
+# Placeholder for future styling utilitiesdef apply_styles(widget, **kwargs):    widget.config(**kwargs)
